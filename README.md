@@ -14,6 +14,32 @@ A MATLAB-based 3-Degree-of-Freedom (3 DOF) point-mass trajectory simulator that 
 
 ---
 
+## Simulation Profiles & Performance Plots
+
+### Test Case 1
+<p align="center">
+  <img src="Simulation_1_Inputs.png" width="48%" alt="Simulation 1 Inputs" />
+  <img src="Simulation_1.png" width="48%" alt="Simulation 1 Trajectory Plot" />
+</p>
+
+---
+
+### Test Case 2
+<p align="center">
+  <img src="Simulation_2_Inputs.png" width="48%" alt="Simulation 2 Inputs" />
+  <img src="Simulation_2.png" width="48%" alt="Simulation 2 Trajectory Plot" />
+</p>
+
+---
+
+### Test Case 3
+<p align="center">
+  <img src="Simulation_3_Inputs.png" width="48%" alt="Simulation 3 Inputs" />
+  <img src="Simulation_3.png" width="48%" alt="Simulation 3 Trajectory Plot" />
+</p>
+
+---
+
 ## Technical Specifications
 
 | Parameter | Description |
